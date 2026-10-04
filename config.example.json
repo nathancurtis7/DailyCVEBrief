@@ -1,0 +1,23 @@
+{
+  "lookback_hours": 24,
+  "min_cvss_score": 7.0,
+  "output_dir": "",
+  "keywords": [
+    "Windows",
+    "Microsoft",
+    "Azure",
+    "Active Directory",
+    "Exchange",
+    "SharePoint",
+    "Office 365",
+    "Teams",
+    "Entra",
+    "Intune",
+    "Defender",
+    "Cisco",
+    "VMware",
+    "Linux",
+    "Apache",
+    "nginx"
+  ]
+}

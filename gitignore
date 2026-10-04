@@ -1,0 +1,13 @@
+# User config — contains your private keyword/tech stack list
+config.json
+
+# Daily output files
+DailyCVEBrief_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
